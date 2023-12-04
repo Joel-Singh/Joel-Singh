@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-I'm an aspiring web developer currently going through The Odin Project. Most of my programming knowledge has come from The Odin Project with the rest from being the programming lead for robotics at my school.
+I'm a web developer.
 
 <!--
 **Joel-Singh/Joel-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
