@@ -1,6 +1,10 @@
 ### Howdy 🤠
 
-I'm a web developer.
+Hey, I'm Joel :), a self-taught programmer
+
+My programming and web development experience comes from The Odin Project Curriculum, Programming Lead for my high school robotics club, and various personal web development projects
+
+I'm also an incoming Denison University student with a full ride as a QuestBridge scholar
 
 <!--
 **Joel-Singh/Joel-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
