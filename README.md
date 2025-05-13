@@ -1,10 +1,8 @@
 ### Howdy 🤠
 
-Hey, I'm Joel :), a self-taught programmer
+Hey, I'm Joel :), currently a student at Denison University with a full ride as a QuestBridge scholar.
 
-My programming and web development experience comes from The Odin Project Curriculum, Programming Lead for my high school robotics club, and various personal web development projects
-
-I'm also an incoming Denison University student with a full ride as a QuestBridge scholar
+My most significant experiences in programming has been web development projects through "The Odin Project" (an online curriculum,) my robotics team, and coursework. 
 
 <!--
 **Joel-Singh/Joel-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
